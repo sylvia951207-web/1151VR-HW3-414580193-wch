@@ -27,3 +27,7 @@
 
 ## 開啟專案
 使用 Unity Hub 加入此專案，開啟 DrinkWheel 場景，按下 Play 即可測試。
+
+## 操作影片
+https://github.com/user-attachments/assets/21b1c1c1-9843-4938-a23f-af065afc8387
+
