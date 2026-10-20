@@ -31,3 +31,7 @@
 ## 操作影片
 https://github.com/user-attachments/assets/21b1c1c1-9843-4938-a23f-af065afc8387
 
+## iPhone手機版操作影片
+https://github.com/user-attachments/assets/a916ace8-4026-4ef0-ac18-2bfc296b98f5
+
+
